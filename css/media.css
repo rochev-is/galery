@@ -1,0 +1,11 @@
+@media all and (max-width: 768px){
+	.item{
+		max-height: initial;
+		max-width: initial;
+		width: 95vw;
+		height: calc(95vw / 16*9);
+	}
+	.img_link{
+		margin: 5px;
+	}
+}
